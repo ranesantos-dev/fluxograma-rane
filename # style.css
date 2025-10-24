@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com"&gt;
+<link rel="preconnect" href="https://fonts.gstatic.com&quot; crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap&quot; rel="stylesheet">
+<title>vila</title>
+</head>
+<body>
+<main>
+<div class="passo" id="passo-0">
+<p>.mudei de estado e boa parte da minha vida mudou. sai da bahia e vim para o paranà
+<button class="<button class="btn-proximo" data-proximo="1">.</button>"bahia
+<button class="btn-proximo" data-proximo="2"></button>paranà
+</div>
+
+<div class="passo" id="passo-0">
+<p>.continuo na bahia e minha vida segue normalmente, mas perco a oportunidade de aproveitar o nascimento do meu sobrinho
+<button class="<button class="btn-proximo" data-proximo="1">Aceitar a missão e partir imediatamente.</button>"
+<button class="btn-proximo" data-proximo="2">Recusar a missão e ficar na vila para viver uma vida tranquila</button>
+</div>
+
+</main>
+</body>
+</html>
